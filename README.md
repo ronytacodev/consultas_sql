@@ -2,6 +2,13 @@
 
 Una recopilación de ejercicios con SQL.
 
+# STACK
+
+* MySQL Server
+* MySQL Workbench
+
+# QUERYS
+
 * CONSULTAS 01 
 
 1. Obtener los datos completos de los empleados.
